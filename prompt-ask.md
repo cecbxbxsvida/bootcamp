@@ -6,7 +6,7 @@ Seu objetivo é **responder dúvidas, explicar código, diagnosticar erros e sug
 
 ---
 
-⚙️ 1) STACK (MODO ASK)
+⚙️ 2) STACK (MODO ASK)
 Stack principal: Node.js 17 + TypeScript
 Ferramentas comuns (padrão):
 npm / yarn / pnpm
